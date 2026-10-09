@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I'm an Operations & Strategy Analyst who discovered he loves to build. I have a BBA with a concentration in Economics and Finance, and I'm a problem solver who builds practical projects. Currently learning to program AI structures and chasing a career in technology.
+I'm an Operations & Strategy Analyst who discovered he loves to build. I have a BBA with a concentration in Economics and Finance, and I'm a problem solver who builds practical projects. Currently learning to program, AI structures and chasing a career in technology.
 
 ### 🔧 Featured Projects
 
